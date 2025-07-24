@@ -32,7 +32,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: "“赔钱云宇宙 Wiki”与“赔钱云”无关",
+      message: "除文档和图片外文件遵循 MIT 协议发布，文档和图片遵循 CC-BY-NC-SA 4.0 协议发布。",
       copyright: "赔钱云宇宙 Wiki © 2025-present",
     }
   }
