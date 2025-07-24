@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as p,ae as s}from"./chunks/framework.U1Gow_7P.js";const o=JSON.parse('{"title":"语录收集（部分）","description":"","frontmatter":{"outline":"deep"},"headers":[],"relativePath":"bgp.md","filePath":"bgp.md"}'),g={name:"bgp.md"};function r(e,t,m,n,l,c){return p(),a("div",null,t[0]||(t[0]=[s("",5)]))}const _=i(g,[["render",r]]);export{o as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as i,c as e,o as t,ae as s}from"./chunks/framework.U1Gow_7P.js";const k=JSON.parse('{"title":"赔钱云宇宙 Wiki","description":"","frontmatter":{},"headers":[],"relativePath":"wiki.md","filePath":"wiki.md"}'),o={name:"wiki.md"};function n(p,a,r,l,c,d){return t(),e("div",null,a[0]||(a[0]=[s("",13)]))}const u=i(o,[["render",n]]);export{k as __pageData,u as default};
