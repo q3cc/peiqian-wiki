@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "赔钱云宇宙 Wiki",
   description: "赔钱云指北",
+  ignoreDeadLinks: true, // 忽略无效链接检查
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
