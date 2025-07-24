@@ -19,10 +19,16 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'wiki',
         items: [
           { text: 'Wiki', link: '/wiki' },
           { text: '语录收集', link: '/bgp' }
+        ]
+      },
+      {
+        text: '乐子',
+        items: [
+          { text: '群主', link: '/lezi/zjx'}
         ]
       }
     ],
