@@ -4,7 +4,14 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "赔钱云宇宙 Wiki",
   description: "赔钱云指北",
-  ignoreDeadLinks: true, // 忽略无效链接检查
+  ignoreDeadLinks: [
+    // 忽略所有外部链接
+    /^https?:\/\//,
+    // 忽略所有相对链接
+    /^\//,
+    // 忽略所有链接
+    /.*/
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
