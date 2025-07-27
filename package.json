@@ -6,6 +6,7 @@
   },
   "devDependencies": {
     "nprogress-v2": "^1.1.10",
-    "vitepress": "^1.6.3"
+    "vitepress": "^1.6.3",
+    "vitepress-protect-plugin": "^1.0.6"
   }
 }
