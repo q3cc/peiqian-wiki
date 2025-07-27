@@ -38,7 +38,7 @@ export default defineConfig({
       {
         text: '乐子',
         items: [
-          { text: '群主', link: '/lezi/zjx'}
+          { text: '群主', link: '/lezi/zjx' }
         ]
       }
     ],
